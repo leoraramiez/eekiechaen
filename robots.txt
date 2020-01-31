@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yakuataeki.damemi.info/sitemap.xml
